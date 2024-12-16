@@ -226,6 +226,7 @@ header {
 .cardmain {
     display: flex;
     flex-direction: row;
+    gap:20px
 }
 
 .card .btn {
