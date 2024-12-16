@@ -576,8 +576,8 @@ header {
         overflow-x: hidden;
         padding-left: 10px;
     }
-     .cardmain{
-         gap:20px;
+     .cardmain1{
+         gap:60px;
      }
     .productmain {
         flex-direction: column;
